@@ -1,8 +1,8 @@
 # NGp_UnityDevTestProj
  Unity Developer interview task project for New Game+ hiring process.
 
-Check the [Unity project (Unity version 6000.0.35f1)](Unity%20Game%20Project)
+Check the [task description](Unity%20Programmer%20Task%20.pdf).
 
-Vitor Balbino - [LinkedIn](https://linkedin.com/in/vitorbcastro/)
+Vitor B Castro - [LinkedIn](https://linkedin.com/in/vitorbcastro/)
 
 [GNU GENERAL PUBLIC LICENSE](LICENSE)
