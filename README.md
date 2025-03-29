@@ -1,5 +1,5 @@
-# NGp_UnityDevTestProj
-## Unity Developer interview task project for New Game+ hiring process.
+## NGp_UnityDevTestProj
+Unity Developer interview task project for New Game+ hiring process.
 
 > [!NOTE]
 > Check the [task description](Unity%20Programmer%20Task%20.pdf).
